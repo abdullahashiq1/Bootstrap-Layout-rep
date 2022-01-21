@@ -1,0 +1,20 @@
+/* .bg-info {
+    background-color: antiquewhite !important;
+} */
+
+.panda-bg-info {
+    background-color: #faeddb;
+}
+
+.catogories img {
+    width: 100px;
+}
+
+.panda-buy-now {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
